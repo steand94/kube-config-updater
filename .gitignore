@@ -1,0 +1,6 @@
+backups/*
+extra-configs/*
+.DS_Store
+
+!backups/.gitkeep
+!extra-configs/.gitkeep
