@@ -207,4 +207,6 @@ kubectl config view --kubeconfig ~/.kube/config-updater/extra-configs/YOUR_FILE.
 
 ## License
 
-Add your preferred license before publishing this repository.
+This project is licensed under the MIT License.
+
+See [LICENSE](LICENSE) for details.
